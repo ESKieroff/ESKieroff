@@ -11,12 +11,12 @@ Currently pursuing a degree in Software Engineering, building my career in this 
 | Coffee                        | "Go horse" coding                             | 
 | People                        | Low code                                      | 
 | Challenges                    | Warnings                                      | 
-| Results-driven mindset        | "It's due tomorrow"                           | 
+| Results-driven mindset        | "It's for tomorrow"                           | 
 | Design patterns               | Git rebase                                    | 
 | Home office                   | "I have a great idea! Can you do it for me?"  | 
 | Flow                          | "The printer isn't working. Can you fix it?"  | 
 | Mischief day                  | "Hack Facebook for me?"                       | 
-| Freelance without invoices    | Developer "no code"                            | 
+| Freelance without invoices    | Developer "no code"                           | 
 
 ## :fire: <span style="color:purple"> Skills (in construction) :wrench:  :hammer:  :construction: 
 ___
