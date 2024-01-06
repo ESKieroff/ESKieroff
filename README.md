@@ -16,7 +16,7 @@ Currently pursuing a degree in Software Engineering, building my career in this 
 | Home office                   | "I have a great idea! Can you do it for me?"  | 
 | Flow                          | "The printer isn't working. Can you fix it?"  | 
 | Mischief day                  | "Hack Facebook for me?"                       | 
-| Freelance without invoices    | Developer in code                             | 
+| Freelance without invoices    | Developer "no code"                            | 
 
 ## :fire: <span style="color:purple"> Skills (in construction) :wrench:  :hammer:  :construction: 
 ___
