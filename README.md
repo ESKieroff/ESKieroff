@@ -21,14 +21,6 @@ Currently pursuing a degree in Software Engineering, building my career in this 
 ## :fire: <span style="color:purple"> Skills
 ___
 
-<style>
-  .language-icon {
-    ;
-    display: inline-block;
-    margin: 0 5px;
-  }  
-</style>
-
 <div align="center">
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
