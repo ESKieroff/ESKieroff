@@ -18,7 +18,7 @@ Currently pursuing a degree in Software Engineering, building my career in this 
 | Mischief day                  | "Hack Facebook for me?"                       | 
 | Freelance without invoices    | Developer in code                             | 
 
-## :fire: <span style="color:purple"> Skills
+## :fire: <span style="color:purple"> Skills (in construction) :wrench:  :hammer:  :construction: 
 ___
 
 <div align="center">
@@ -87,6 +87,7 @@ ___
 
 ## :point_right: <span style="color:purple"> Contact
 ___
-Hey, before you go,
+Hey, before you go,<br>
 Shoot me a message on LinkedIn, or if you'd rather, drop an email to kieroff@gmail.com, and let's catch up.
+<br>
 Take care and talk to you soon! :punch:
