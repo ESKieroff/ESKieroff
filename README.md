@@ -88,6 +88,6 @@ ___
 ## :point_right: <span style="color:purple"> Contact
 ___
 Hey, before you go,<br>
-Shoot me a message on [LinkedIn](https://www.linkedin.com/in/rodrigo-oliveira-eng-software/), or if you'd rather, drop an email to kieroff@gmail.com, and let's catch up.
+Shoot me a message on [LinkedIn](https://www.linkedin.com/in/rodrigo-oliveira-software-engineering/), or if you'd rather, drop an email to kieroff@gmail.com, and let's catch up.
 <br>
-Take care and talk to you soon! :punch:
+Take care and talk to you soon! :punch:https://www.linkedin.com/in/rodrigo-oliveira-software-engineering/
